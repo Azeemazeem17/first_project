@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello world
+=======
+hello how are you
+>>>>>>> be79f08f2391de0554a50ae73bea2294f4bf86e7
